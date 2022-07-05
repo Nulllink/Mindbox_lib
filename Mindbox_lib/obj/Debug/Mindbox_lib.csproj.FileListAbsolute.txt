@@ -1,0 +1,6 @@
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib\bin\Debug\Mindbox_lib.dll
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib\bin\Debug\Mindbox_lib.pdb
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib\obj\Debug\Mindbox_lib.csproj.AssemblyReference.cache
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib\obj\Debug\Mindbox_lib.csproj.CoreCompileInputs.cache
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib\obj\Debug\Mindbox_lib.dll
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib\obj\Debug\Mindbox_lib.pdb

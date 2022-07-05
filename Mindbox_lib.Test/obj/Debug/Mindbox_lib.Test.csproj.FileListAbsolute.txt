@@ -1,0 +1,11 @@
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\bin\Debug\Mindbox_lib.Test.dll
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\bin\Debug\Mindbox_lib.Test.pdb
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\bin\Debug\Mindbox_lib.dll
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\bin\Debug\nunit.framework.dll
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\bin\Debug\Mindbox_lib.pdb
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\bin\Debug\nunit.framework.xml
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\obj\Debug\Mindbox_lib.Test.csproj.AssemblyReference.cache
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\obj\Debug\Mindbox_lib.Test.csproj.CoreCompileInputs.cache
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\obj\Debug\Mindbox_lib.Test.csproj.CopyComplete
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\obj\Debug\Mindbox_lib.Test.dll
+C:\!Disk\VisualStudio\Mindbox_lib\Mindbox_lib.Test\obj\Debug\Mindbox_lib.Test.pdb
