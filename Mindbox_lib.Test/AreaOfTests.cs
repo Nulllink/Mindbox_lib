@@ -63,7 +63,7 @@ namespace Mindbox_lib.Test
             double c = 3;
             bool expected = true;
             //act
-            bool actual = AreaOf.IsRightTriangle(a,b,c);
+            bool actual = Triangle.IsRightTriangle(a,b,c);
             //assert
             Assert.AreEqual(expected,actual);
         }

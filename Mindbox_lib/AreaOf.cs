@@ -15,26 +15,6 @@ namespace Mindbox_lib
             return Math.Round(Math.Sqrt(p * (p - a) * (p - b) * (p - c)),4);
         }
 
-        public static bool IsRightTriangle(double a, double b, double c)
-        {
-            if (Math.Pow(a, 2) == Math.Pow(b, 2) + Math.Pow(c, 2))
-            {
-                return true;
-            }
-            else if (Math.Pow(b, 2) == Math.Pow(a, 2) + Math.Pow(c, 2))
-            {
-                return true;
-            }
-            else if (Math.Pow(c, 2) == Math.Pow(a, 2) + Math.Pow(b, 2))
-            {
-                return true;
-            }
-            else // 3 sides method
-            {
-                return false;
-            }
-        }
-
         #region without knowledge of figure type
 
         public static double AnyFigure(double r)
@@ -49,4 +29,5 @@ namespace Mindbox_lib
         }
         #endregion
     }
+    
 }
